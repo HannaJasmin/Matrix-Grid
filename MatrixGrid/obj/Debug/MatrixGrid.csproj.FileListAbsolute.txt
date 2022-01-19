@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\MatrixGrid\bin\Debug\MatrixGrid.exe.config
+C:\Users\user\source\repos\MatrixGrid\bin\Debug\MatrixGrid.exe
+C:\Users\user\source\repos\MatrixGrid\bin\Debug\MatrixGrid.pdb
+C:\Users\user\source\repos\MatrixGrid\obj\Debug\MatrixGrid.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\MatrixGrid\obj\Debug\MatrixGrid.FormMatrix.resources
+C:\Users\user\source\repos\MatrixGrid\obj\Debug\MatrixGrid.Properties.Resources.resources
+C:\Users\user\source\repos\MatrixGrid\obj\Debug\MatrixGrid.csproj.GenerateResource.cache
+C:\Users\user\source\repos\MatrixGrid\obj\Debug\MatrixGrid.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MatrixGrid\obj\Debug\MatrixGrid.exe
+C:\Users\user\source\repos\MatrixGrid\obj\Debug\MatrixGrid.pdb
